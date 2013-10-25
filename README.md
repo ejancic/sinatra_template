@@ -1,4 +1,5 @@
-sinatra_template
-================
+This project is a starter template for a Sinatra Project.  A sample index template is included along with the first test (which should pass)
 
-Base setup with Sinatra, Mustache, MiniTest
+* Uses mustache for templating
+* MVC setup
+* minitest for Test

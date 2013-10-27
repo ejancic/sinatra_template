@@ -7,14 +7,12 @@ The project includes
 * Sinatra MVC setup
 * MiniTest for testing
 
-# Getting started
-
 ## Clone the repository locally
-### Bundle install
+Bundle install
 
 ## Running Tests
 
-### $ rake test
+$ rake test
 
 
 

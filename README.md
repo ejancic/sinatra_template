@@ -1,4 +1,4 @@
-h3. Sinatra Project Template
+# Sinatra Project Template
 This project is a starter template for a Sinatra Project.  A sample index template is included along with the first passing test.
 
 The project includes
@@ -7,14 +7,14 @@ The project includes
 * Sinatra MVC setup
 * MiniTest for testing
 
-h4. Getting started
+# Getting started
 
-# Clone the repository locally
-# Bundle install
+## Clone the repository locally
+### Bundle install
 
-h4. Running Tests
+## Running Tests
 
-$ rake test
+### $ rake test
 
 
 
